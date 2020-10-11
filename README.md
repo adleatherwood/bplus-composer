@@ -3,6 +3,10 @@
 A functional composition library for TypeScript based on F# and Linq.  The Linq implementation
 is fully lazy with the exception of the few functions that require a full iterable evaluation.
 
+#### Note
+
+This project is maintained over at GitLab: https://gitlab.com/adleatherwood/bplus-composer
+
 ## Option
 
 An option is defined as either having a value or not.
