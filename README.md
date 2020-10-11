@@ -186,3 +186,5 @@ expect(actual).toBe("a,b,c")
 
 Notice the helper function `self` that can be used to select and return the item itself.  This function
 is not necessary, but can make code more readable.
+
+Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
