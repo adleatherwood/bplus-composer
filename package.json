@@ -1,6 +1,6 @@
 {
     "name": "bplus-composer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A functional composition library",
     "main": "build/bplus-composer.ts",
     "types": "build/bplus-composer.d.ts",
