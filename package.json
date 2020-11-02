@@ -1,13 +1,14 @@
 {
     "name": "bplus-composer",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A functional composition library",
     "main": "build/bplus-composer.ts",
     "types": "build/bplus-composer.d.ts",
     "scripts": {
         "build": "tsc --project tsconfig.json",
         "test": "jest",
-        "test-w": "jest --watchAll"
+        "test-w": "jest --watchAll",
+        "coverage": "jest --coverage"
     },
     "keywords": [
         "functional",
@@ -18,7 +19,7 @@
     ],
     "author": "Anthony Leatherwood",
     "license": "GPL-3.0-or-later",
-    "dependencies": {
+    "devDependencies": {
         "@types/jest": "^26.0.14",
         "jest": "^26.4.2",
         "ts-jest": "^26.4.0",

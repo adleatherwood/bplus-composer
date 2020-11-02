@@ -3,6 +3,9 @@
 A functional composition library for TypeScript based on F# and Linq.  The Linq implementation
 is fully lazy with the exception of the few functions that require a full iterable evaluation.
 
+![pipeline](https://gitlab.com/adleatherwood/bplus-composer/badges/master/pipeline.svg)
+![coverage](https://gitlab.com/adleatherwood/bplus-composer/badges/master/coverage.svg)
+
 #### Note
 
 This project is maintained over at GitLab: https://gitlab.com/adleatherwood/bplus-composer

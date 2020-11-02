@@ -1,6 +1,7 @@
 .ionide
 .vscode
 tests
+coverage
 src
 tsconfig.json
 jest.config.js
