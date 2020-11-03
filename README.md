@@ -10,6 +10,14 @@ is fully lazy with the exception of the few functions that require a full iterab
 
 This project is maintained over at GitLab: https://gitlab.com/adleatherwood/bplus-composer
 
+## Install
+
+https://www.npmjs.com/package/bplus-composer
+
+```sh
+npm i bplus-composer
+```
+
 ## Option
 
 An option is defined as either having a value or not.
