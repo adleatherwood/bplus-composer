@@ -128,7 +128,7 @@ I won't list all of the Linq functions that are implemented and how to use them.
 there and are used in a similar and intuitive manner as in C#.  There are some differences worth mentioning.
 Although TypeScript offers enough flexibility for function overloads, they are generally very cumbersome
 and this library would have had an unmanageable number of them.  Here are some of the more different
-arrangments:
+arrangements:
 
 ### OrderBy
 
