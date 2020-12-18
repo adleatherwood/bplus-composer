@@ -5,7 +5,7 @@
         "url": "git@gitlab.com:adleatherwood/bplus-composer.git"
     },
     "scripts": {
-        "build": "ncp README.md package/README.md && tsc --project tsconfig.json",
+        "build": "ncp README.md package/README.md && ncp LICENSE ./package/LICENSE && tsc --project tsconfig.json",
         "test": "jest",
         "test-w": "jest --watchAll",
         "coverage": "jest --coverage"
